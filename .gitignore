@@ -1,0 +1,6 @@
+*.CAP
+*.cap
+*.bin
+*.bak
+out/
+__pycache__/
